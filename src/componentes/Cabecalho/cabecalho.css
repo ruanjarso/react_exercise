@@ -1,0 +1,10 @@
+.cabecalho{
+    background-color: #9ED0FF;
+    color: rgb(255, 255, 255);
+    padding: 20px 15px;
+}
+
+li{
+    display: inline;
+    margin: 30px;
+}
